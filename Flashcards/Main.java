@@ -110,7 +110,7 @@ public class Main extends Application {
         });
 
         setNextImage();
-        stage.setTitle("Quiz");
+        stage.setTitle("Flashcards");
         stage.setScene(scene);
         stage.show();
     }
